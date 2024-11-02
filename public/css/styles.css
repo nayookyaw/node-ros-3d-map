@@ -1,0 +1,16 @@
+/* public/styles.css */
+body {
+    font-family: Arial, sans-serif;
+    padding: 0;
+    height: 100%; /* Ensure the body takes full height */
+    margin: 0;    /* Remove default margin */
+    background-color: black !important;
+}
+
+main {
+    /* padding: 1em; */
+    color: #ffffff;
+    background-color: black;
+    margin: 0;
+}
+  

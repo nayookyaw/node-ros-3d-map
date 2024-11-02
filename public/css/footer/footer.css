@@ -1,0 +1,9 @@
+footer {
+    position: relative; /* Change to fixed */
+    bottom: 0;
+    left: 0;        /* Align to the left */
+    width: 100%;    /* Full width */
+    background-color: black; /* Optional: Set background color */
+    color: white;   /* Optional: Set text color */
+    text-align: center;
+}

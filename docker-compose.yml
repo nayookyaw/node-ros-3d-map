@@ -1,0 +1,13 @@
+# docker-compose.yml
+
+version: '3'
+services:
+  app:
+    build: .
+    ports:
+      - "3000:3000" # Maps port 3000 on the host to port 3000 in the container
+    volumes:
+      - .:/app       # Mount the current directory to /app in the container
+      - /app/node_modules # Ensure node_modules is only inside the container
+    environment:
+      - NODE_ENV=development

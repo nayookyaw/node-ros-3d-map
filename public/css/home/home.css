@@ -1,0 +1,5 @@
+.rounded-image {
+    width: auto; /* Adjust width as needed */
+    height: 8vh; /* Maintain aspect ratio */
+    border-radius: 15px; /* Adjust the radius for rounding */
+}

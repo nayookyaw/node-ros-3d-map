@@ -16,4 +16,4 @@ Note - make sure you already installed
 
 # demo
 
-![dashboard](demo-images/dashboard.png)
+![dashboard](demo-images/dashboard-demo.png)

@@ -13,3 +13,7 @@ Note - make sure you already installed
 # run server
 
     `node index.js`
+
+# demo
+
+![dashboard](demo-images/dashboard.png)
